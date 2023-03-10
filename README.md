@@ -3,20 +3,19 @@
 This repository contains notebooks from my Machine Learning class. The notebooks cover various topics related to machine learning and data analysis. This project-based class will introduce techniques for inferring biological meaning from experimental measurements using computational and analytical techniques. 
 
 ## Week 1 - Introduction
-Week1-Introduction(Machine-learning-data-driven-modeling-in-bioengineering/lab-1-programming-and-git-primer-shreeshkarjagi/Week1-Introduction.ipynb)
-Week1-IntroductionIn this week, we introduce the basic concepts of Git and Python programming language. You can find the following tutorials in this week's notebook:
+[Week1-Introduction](https://github.com/shreeshkarjagi/Machine-learning-data-driven-modeling-in-bioengineering/blob/main/lab-1-programming-and-git-primer-shreeshkarjagi/Week1-Introduction.ipynb)
+In this week, we introduce the basic concepts of Git and Python programming language. You can find the following tutorials in this week's notebook:
 
 - A quick introduction to git and python
 - Tutorials on git functions and further reading on git
 - Introduction to python programming with tutorials on Python basics
 
-Week 2 - Implementation of Shaffer et al
+## Week 2 - Implementation of Shaffer et al
+[Week2-Implementation of Shaffer et al](https://github.com/shreeshkarjagi/Machine-learning-data-driven-modeling-in-bioengineering/blob/main/lab-2-implementation-of-shaffer-et-al-shreeshkarjagi/Week2-Statistics.ipynb) 
 This week's notebooks cover the following topics:
 
 - Fitting & Regression Redux, Regularization
-- Examples of notebook for the above topic
-- Lecture on "Does my model work? Crossvalidation, bootstrap, and friends"
-- Examples of notebook for the above lecture
+- Crossvalidation, bootstrap, and friends
 
 Week 3 - Bayesian vs. frequentist approaches
 In this week, the following topics are covered:
