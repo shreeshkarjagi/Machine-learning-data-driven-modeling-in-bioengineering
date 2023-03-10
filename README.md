@@ -9,7 +9,7 @@ In this week, we introduce the basic concepts of Git and Python programming lang
 - Tutorials on git functions and further reading on git
 - Introduction to python programming with tutorials on Python basics
 
-##[Week2-Implementation of Shaffer et al.](https://github.com/shreeshkarjagi/Machine-learning-data-driven-modeling-in-bioengineering/blob/main/lab-2-implementation-of-shaffer-et-al-shreeshkarjagi/Week2-Statistics.ipynb) 
+## [Week2-Implementation of Shaffer et al.](https://github.com/shreeshkarjagi/Machine-learning-data-driven-modeling-in-bioengineering/blob/main/lab-2-implementation-of-shaffer-et-al-shreeshkarjagi/Week2-Statistics.ipynb) 
 This week's notebooks cover the following topics:
 
 - Fitting & Regression
