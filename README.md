@@ -1,6 +1,6 @@
 # Machine-learning-data-driven-modeling-in-bioengineering
 
-This repository contains notebooks from my Machine Learning class. The notebooks cover various topics related to machine learning and data analysis. This project-based class will introduce techniques for inferring biological meaning from experimental measurements using computational and analytical techniques. 
+This repository contains notebooks from my Machine Learning class. The notebooks cover various topics related to machine learning and data analysis. This project-based class introduced me to techniques for inferring biological meaning from experimental measurements using computational and analytical techniques. 
 
 ## [Week1-Introduction](https://github.com/shreeshkarjagi/Machine-learning-data-driven-modeling-in-bioengineering/tree/main/lab-1-programming-and-git-primer-shreeshkarjagi)
 In this week, we introduce the basic concepts of Git and Python programming language. You can find the following tutorials in this week's notebook:
