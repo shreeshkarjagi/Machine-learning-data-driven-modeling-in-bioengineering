@@ -29,10 +29,12 @@ This week's notebooks cover the following topics:
  - Principal Components Analysis
 
 ## [Week6-Implementation of Perelson et al.](https://github.com/shreeshkarjagi/Machine-learning-data-driven-modeling-in-bioengineering/tree/main/lab-5-implementation-of-perelson-et-al-shreeshkarjagi) 
+This week's notebooks cover the following topic:
 
  - Dynamical models
 
 ## [Week7-HMM Implementation](https://github.com/shreeshkarjagi/Machine-learning-data-driven-modeling-in-bioengineering/tree/main/lab-6-implementation-of-hmms-for-heart-rate-monitoring-shreeshkarjagi) 
+This week's notebooks cover the following topics:
 
  - Hidden Markov Models
 - Examples of notebooks for the above lecture
